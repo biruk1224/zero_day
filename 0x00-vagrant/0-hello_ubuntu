@@ -1,1 +1,1 @@
-kernel name
+uname
